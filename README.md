@@ -13,6 +13,7 @@ RaspberryJuice1.8
 
 ### 特别说明
 mcpi 是别人创作的，我已分不清来源，自己也做了一些修改，方便使用。
+有可能的来源：https://github.com/brooksc/mcpipy/
 
 ### 案例
 1.在我的世界里播放视频
