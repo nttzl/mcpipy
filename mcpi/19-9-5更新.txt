@@ -1,0 +1,5 @@
+增加ids模块
+
+修改connecting.send()
+s=s.encode(encoding="gbk")
+支持聊天输出中文。
